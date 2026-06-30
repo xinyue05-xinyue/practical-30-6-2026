@@ -128,6 +128,7 @@ class Info extends StatelessWidget {
                 },
                   child: Text('Back'),
                 ),
+
               ],
             ),
           ),
